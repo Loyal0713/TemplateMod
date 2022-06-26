@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "nomansblock",
+  "id": "modid",
   "version": "0.0.1",
 
-  "name": "No Man's Block",
-  "description": "System to recreate No Man's Sky within Minecraft!",
+  "name": "Mod Name",
+  "description": "Mod description",
   "authors": [
     "Loyal0713"
   ],
   "contact": {
-    "sources": "https://github.com/Loyal0713/fabric-example-mod"
+    "sources": "https://github.com/Loyal0713/modnamehere"
   },
 
   "license": "MIT",
