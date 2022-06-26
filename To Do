@@ -1,0 +1,16 @@
+
+0. Update gradle.properties/build.gradle
+    - for mappings, check https://fabricmc.net/develop
+    - update mod properties
+        - archives_base_name = generated jar file name
+    - fabric_version = check Curseforge for latest version of Fabric API
+    - in build.gradle, verify latest Loom with above link
+1. Update fabric.mod.json
+    - id, version, name, description, authors (if needed), contact, licencse
+    - ENTRYPOINTS (super important)
+    - mixins if needed
+    - depends
+    - add suggests if needed
+2. Update assets.modid
+    - match change folder name to match mod id
+    - update modid.mixins.json to match mod id
